@@ -18,7 +18,7 @@ Options:
     --plotTree           Plot Phylogenetic tree.
     --organism=<o>      Organism to be analysed, "mouse" or "human" [default: human]
 Arguments:
-    count_mtx Raw count gene-by-cell matrix in .RDS format.
+    count_mtx Raw count gene-by-cell matrix in .rds format.
 ' -> doc
 
 library(docopt)
